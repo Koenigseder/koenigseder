@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there, I'm Kevin Königseder 👋
+
+- 🔭 I like learning new things
+- 🌱 I’m currently learning React and React Native
+- 🔗 Here is my website: https://koenigseder.me
+- 📫 How to reach me: kevin@koenigseder.me
 
 <!--
 **Koenigseder/koenigseder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
